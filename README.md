@@ -1,25 +1,65 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhusari</h1>
-<h3 align="center">A Data Science Undergrad</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | AI Builder | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam0176&label=Profile%20views&color=0e75b6&style=flat" alt="shivam0176" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam0176" alt="shivam0176" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning Models**
-
-- 📝 I regularly write articles on [https://medium.com/@bhusarishivam08](https://medium.com/@bhusarishivam08)
-
-- 📫 How to reach me **bhusarishivam08@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivambhus2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivambhus2018" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivambhusari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivambhusari" height="30" width="40" /></a>
-<a href="https://kaggle.com/shivambhusari176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivambhusari176" height="30" width="40" /></a>
-<a href="https://instagram.com/bhusari._.shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhusari._.shivam" height="30" width="40" /></a>
-<a href="https://medium.com/@bhusarishivam08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhusarishivam08" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam0176&label=Profile%20views&color=0e75b6&style=flat" alt="shivam0176" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 About Me
+
+- 🎓 Data Science Undergrad from India  
+- 🤖 Currently building **AI projects (Computer Vision + Automation)**  
+- 📈 Learning **Machine Learning, DSA & System Design**  
+- 🎥 Passionate about **Filmmaking & Video Editing**  
+- 🚀 Goal: Build impactful tech products & become an entrepreneur  
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Languages: **C, Python, Java**
+- 📊 Data Science: **Pandas, NumPy, Scikit-learn**
+- 🤖 AI/ML: **TensorFlow, OpenCV, MediaPipe**
+- 🗄️ Databases: **MySQL, SQLite**
+- 🔧 Tools: **Git, GitHub**
+
+---
+
+### 🚀 Featured Projects
+
+- 🤖 **AI Assistant (FRIDAY)**  
+  → Smart assistant with automation, real-time search & voice commands  
+
+- 👁️ **AI Vision System**  
+  → Detects real-world objects & speaks them aloud using Computer Vision  
+
+- 📊 **Instagram Reach Analyzer**  
+  → ML model to analyze and predict content performance  
+
+---
+
+### 📚 Content & Writing
+
+- ✍️ I write about AI, Data Science & Tech  
+👉 https://medium.com/@bhusarishivam08  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/shivambhus2018" target="blank">Twitter</a> •
+<a href="https://linkedin.com/in/shivambhusari" target="blank">LinkedIn</a> •
+<a href="https://kaggle.com/shivambhusari176" target="blank">Kaggle</a> •
+<a href="https://instagram.com/bhusari._.shivam" target="blank">Instagram</a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I love turning ideas into real-world AI projects 🚀
+
+---
